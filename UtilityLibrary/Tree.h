@@ -77,6 +77,7 @@ public:
 
 	/**
 	 * Traverse tree, based on traversal order
+	 * General algorithm adapted from http://en.wikipedia.org/wiki/Tree_traversal
 	 */
 	void TraverseTree(TraversalOrder traversalType);
 
