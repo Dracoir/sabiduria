@@ -1,6 +1,6 @@
 /*
- * String.h
- *
+ * MyString allow for various String manipulations.
+  *
  *  Created on: Jan 15, 2011
  *      Author: ricardorodriguez
  */
