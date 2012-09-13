@@ -1,5 +1,7 @@
 /*
- * Sorts.h
+ * Sorting algorithms adapted from pseudocode taken from
+ * "Data Structures, Algorithms, and Software Principles in C"
+ *   by Thomas A. Standish
  *
  *  Created on: Feb 20, 2011
  *      Author: ricardorodriguez
