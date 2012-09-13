@@ -8,9 +8,9 @@
 #ifndef MYSTRING_H_
 #define MYSTRING_H_
 
-namespace Utilities {
+namespace Sabiduria {
 
-namespace MyString {
+namespace Text {
 
 class MyString {
 public:

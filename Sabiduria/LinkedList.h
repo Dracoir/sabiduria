@@ -18,7 +18,7 @@ struct Node {
 	}
 };
 
-namespace Utilities {
+namespace Sabiduria {
 namespace Structures {
 
 class LinkedList {

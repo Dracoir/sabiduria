@@ -8,7 +8,7 @@
 #ifndef SORTS_H_
 #define SORTS_H_
 
-namespace Utilities {
+namespace Sabiduria {
 
 namespace Sorting {
 

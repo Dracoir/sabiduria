@@ -8,9 +8,9 @@
 #include <iostream>
 #include "MyString.h"
 
-namespace Utilities {
+namespace Sabiduria {
 
-namespace MyString {
+namespace Text {
 
 //////////////////////////////////////////////////
 MyString::MyString()

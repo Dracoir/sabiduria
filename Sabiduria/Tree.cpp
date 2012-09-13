@@ -9,7 +9,7 @@
 #include <limits>
 #include <iostream>
 
-namespace Utilities {
+namespace Sabiduria {
 namespace Structures {
 
 ////////////////////////////////////////////////////////////////////////

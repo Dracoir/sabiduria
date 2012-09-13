@@ -8,7 +8,7 @@
 #ifndef MATH_H_
 #define MATH_H_
 
-namespace Utilities {
+namespace Sabiduria {
 
 namespace Math {
 

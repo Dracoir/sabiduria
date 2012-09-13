@@ -9,7 +9,7 @@
 #include <iostream.h>
 #include <time.h>
 
-namespace Utilities {
+namespace Sabiduria {
 namespace Structures {
 
 LinkedList::LinkedList()

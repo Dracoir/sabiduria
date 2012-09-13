@@ -7,7 +7,7 @@
 
 #include "Sorts.h"
 
-namespace Utilities {
+namespace Sabiduria {
 
 namespace Sorting {
 
