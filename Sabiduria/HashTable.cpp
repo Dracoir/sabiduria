@@ -33,6 +33,6 @@ bool HashTable::Insert(HashEntry &value)
 	return true;
 }
 
-} // InterviewPrep namespace
+}
 
-} // Googles namespace
+}
