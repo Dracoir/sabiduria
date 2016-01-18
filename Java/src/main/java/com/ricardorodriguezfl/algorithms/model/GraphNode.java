@@ -1,4 +1,4 @@
-package com.rick.algorithms.model;
+package com.ricardorodriguezfl.algorithms.model;
 
 import java.util.LinkedList;
 import java.util.List;
